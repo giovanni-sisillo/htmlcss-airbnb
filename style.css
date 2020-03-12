@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url(https://image.winudf.com/v2/image/Y29tLmlwbW9iaWxlc29sdXRpb25zLndhbGxwYXBlcnNncmFkaWVudF9zY3JlZW5fNl8xNTE4Njk4MDUxXzA5NA/screen-6.jpg?fakeurl=1&type=.jpg);
+
+    background-size: cover;
+}
+
+h1 {
+    top: 40%;
+    position: relative;
+    color: white;
+    font-family: 'Sen', sans-serif;
+}
+
+div { margin: 35px auto; }
+
+#titolo {
+    text-align: center;
+    background-color: white;
+    color: red;
+    opacity: 0.6;
+    margin: auto;
+    width: 13%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.generale {
+    width: 80vh;
+    height: auto;
+    margin: auto;
+    border: 3px solid orange;
+    transform: translateY(100px);
+}
+
+.roma {
+    width: 65vh;
+    height: 400px;
+    display: block;
+    position: relative;
+    background-image: url(img/roma.jpg);
+    background-size: cover;
+    border: 3px solid red;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.valencia {
+    width: 65vh;
+    height: 400px;
+    display:block;
+    position: relative;
+    background-image: url(https://siviaggia.files.wordpress.com/2018/11/valencia.jpg);
+    background-size: cover;
+    border: 3px solid blue;
+    text-align: center;
+    opacity: 0.7;
+
+}
+
+.parigi {
+    width: 65vh;
+    height: 400px;
+    display: block;
+    position: relative;
+    background-image: url(https://www.informagiovani-italia.com/parigi_veduta.jpg);
+    background-size: cover;
+    border: 3px solid violet;
+    text-align: center;
+    opacity: 0.7;
+
+}
